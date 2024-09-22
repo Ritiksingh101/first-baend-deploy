@@ -1,0 +1,20 @@
+{
+  "name": "firstbackend",
+  "version": "1.0.0",
+  "description": "try to make",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "first",
+    "app",
+    "deploy"
+  ],
+  "author": "ritik singh",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0"
+  }
+}
